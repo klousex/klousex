@@ -53,10 +53,18 @@ Full-stack developer with a focus on building high-performance applications and 
 
 ## Featured Projects
 
-* **[morosmp.net](https://morosmp.net)** — A full-featured web platform built with the MERN stack. Features integration with game server data and community management tools.
-* **MoroRTP** — High-performance Random Teleportation engine for PaperMC 1.21+. Includes dimension progression and custom typography filters.
-* **Automation Suite** — Private collection of Python-based tools for server management and data processing.
-
+* **WobbleAuction** — A modern GUI-based auction house plugin for Paper 1.21+. Includes pagination, sorting, search, expiration system, SQLite storage, and Vault economy integration.
+* **WobbleBounty** — Dynamic bounty system with GUI menus, player targeting, automated payouts, and real-time updates. Designed for competitive SMP gameplay.
+* **WobbleRTP** — High-performance Random Teleportation engine for PaperMC 1.21+. Features optimized location search and dimension-based progression.
+* **WobbleTeams** — Team management system with invitations, roles, persistence, and scoreboard integration.
+* **WobbleWarp** — Lightweight warp system for player teleportation with configurable locations and permissions.
+* **WobbleKillSound** — Custom kill sound system triggered on PvP events with configurable audio feedback.
+* **WobbleHome** — Player home system allowing set, teleport, and manage personal locations.
+* **WobbleCombat** — Combat logging and PvP control system to prevent abuse and enforce fair fights.
+* **WobbleSettings** — Centralized player settings system designed to control and sync behavior across multiple plugins.
+* 
+* **https://morosmp.net** — Full-stack MERN platform integrated with Minecraft server data and community systems.
+* **Automation Suite** — Private Python toolkit for server automation, data processing, and workflow optimization.
 ---
 
 ## GitHub Statistics
