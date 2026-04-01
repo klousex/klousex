@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fm%2F8DoQFk9hEsUAAAAd%2Fminecraft-sammear.gif" width="500" alt="Minecraft banner" />
+  <img src="https://github.com/wobblexdd/wobblexdd/blob/main/assets/WobbleAura.mp4" width="500" alt="Minecraft banner" />
 
   <h1>Wobble</h1>
   <p><strong>Full-Stack Developer • Java • Minecraft Infrastructure • MERN</strong></p>
