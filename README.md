@@ -45,7 +45,7 @@ Main direction:
 - backend-heavy web + game integrations
 - Paper/PaperMC plugin development
 - automation and internal tooling
-- server ecosystem architecture for **MoroSMP**
+- server ecosystem architecture for **EmeraldSMP**
 
 I work mainly on projects where Minecraft servers, web platforms, and automation pipelines need to operate as one system.
 
@@ -145,7 +145,7 @@ That means:
 - web infrastructure
 - community-linked services
 
-All of it is built to work together inside **MoroSMP**.
+All of it is built to work together inside **EmeraldSMP**.
 
 ---
 
