@@ -55,17 +55,17 @@ I build systems where applications, services, and tools integrate into a single 
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
 </p>
 
 ### Backend / Web
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb,postgresql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,postgresql,redis" />
 </p>
 
 ### Tools / Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,maven,docker,bash,linux" />
+  <img src="https://skillicons.dev/icons?i=github,git,vscode,docker,linux" />
 </p>
 
 ---
