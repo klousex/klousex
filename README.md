@@ -12,10 +12,8 @@
   <p><strong>Full-Stack Developer • Minecraft Development</strong></p>
 
   <p>
-    <img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img src="https://img.shields.io/badge/Minecraft-Development-166534?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Full--Stack-Development-111827?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Minecraft-Development-166534?style=for-the-badge" />
   </p>
 
   <p>
