@@ -103,8 +103,8 @@ I build systems where applications, services, and tools integrate into a single 
 ## Contact
 
 <div align="center">
-  <a href="https://t.me/aulgu">Telegram</a> •
-  <a href="mailto:klouserq@gmail.com">E-mail</a>
+  <a href="https://t.me/klousex">Telegram</a> •
+  <a href="mailto:klousex@gmail.com">E-mail</a>
 </div>
 
 <div align="center">
