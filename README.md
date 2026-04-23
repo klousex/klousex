@@ -20,7 +20,7 @@
     <a href="https://www.twitch.tv/klousex">
       <img src="https://img.shields.io/badge/Twitch-klousex-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
     </a>
-    <a href="https://tiktok.com/@klousex">
+    <a href="https://tiktok.com/@klousexx">
       <img src="https://img.shields.io/badge/TikTok-@klousex-black?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
   </p>
