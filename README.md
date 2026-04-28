@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/TikTok-@klousexx-black?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 
-  <a href="https://discord.gg/klousex">
+  <a href="https://discord.com/users/1425100026022985788">
     <img src="https://img.shields.io/badge/Discord-klousex-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
