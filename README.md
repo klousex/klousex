@@ -1,29 +1,24 @@
 <div align="center">
 
-  <a href="https://github.com/user-attachments/assets/85679b78-dd22-4a1c-a2f2-bc5813c2280c">
-    <img
-      src="https://github.com/user-attachments/assets/e24b0b2c-3d0f-4791-a7d2-ef3ca6cf7762"
-      alt="Aura"
-      width="500"
-    />
+<img src="https://github.com/user-attachments/assets/e24b0b2c-3d0f-4791-a7d2-ef3ca6cf7762" width="420" />
+
+# Klouse
+
+### Full-Stack Developer • Minecraft Development
+
+<p>
+  <a href="https://twitch.tv/klousex">
+    <img src="https://img.shields.io/badge/Twitch-klousex-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  
+  <a href="https://tiktok.com/@klousexx">
+    <img src="https://img.shields.io/badge/TikTok-@klousexx-black?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 
-  <h1>KLouse</h1>
-  <p><strong>Full-Stack Developer • Minecraft Development</strong></p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Full--Stack-Development-111827?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Minecraft-Development-166534?style=for-the-badge" />
-  </p>
-
-  <p>
-    <a href="https://www.twitch.tv/klousex">
-      <img src="https://img.shields.io/badge/Twitch-klousex-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-    </a>
-    <a href="https://tiktok.com/@klousexx">
-      <img src="https://img.shields.io/badge/TikTok-@klousex-black?style=for-the-badge&logo=tiktok&logoColor=white" />
-    </a>
-  </p>
+  <a href="https://t.me/klousex">
+    <img src="https://img.shields.io/badge/Telegram-klousex-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -31,23 +26,31 @@
 
 ## Overview
 
-Full-stack developer focused on building scalable and practical systems.
+Full-stack developer building practical and scalable systems.
 
-Main direction:
-- full-stack applications (backend + frontend)
-- Minecraft plugin and mod development
-- UI/UX and web design
-- 3D design and prototyping
+Main interests:
 
-I build systems where applications, services, and tools integrate into a single structured workflow with clear architecture.
+- backend & frontend applications;
+- realtime systems;
+- Minecraft infrastructure;
+- automation & tooling;
+- self-hosted services;
+- UI/UX & visual presentation;
+- creator-oriented ecosystem building.
+
+Main idea:
+combine engineering + creator mindset inside one digital ecosystem.
 
 ---
 
 ## Current Focus
 
-- Developing standalone plugins and mods for Minecraft
-- Building small and practical applications (desktop / mobile)
-- Creating tools that are simple, fast, and scalable
+- Minecraft plugins & infrastructure
+- realtime/backend systems
+- desktop & mobile applications
+- scalable web architecture
+- automation workflows
+- production-oriented development
 
 ---
 
@@ -55,58 +58,75 @@ I build systems where applications, services, and tools integrate into a single 
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=rust,cpp,kotlin,java,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,rust,kotlin,cpp" />
 </p>
 
-### Backend / Web
+### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,react,redis,postgresql" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind" />
 </p>
 
-### Tools / Infra
+### Backend & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=github,git,vscode,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,docker,linux" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### Minecraft Projects
-- KAuctionHouse — GUI auction system with pagination, search, and expiration handling  
-- KBountyHunters — dynamic bounty system with automated payouts and PvP flow  
-- KCombatLog — combat control and anti-logout system  
-- KTeams — team system with roles, invites, and persistence  
-- KRTP — high-performance random teleport system with safe location logic
-
----
+### Minecraft
+- KAuctionHouse
+- KBountyHunters
+- KCombatLog
+- KTeams
+- KRTP
 
 ### Applications
-- vpn-desktop — Electron desktop client for a self-hosted VPN workflow.
-- vpn-mobile — React Native mobile client for a self-hosted VPN workflow
+- vpn-desktop
+- vpn-mobile
 
 ---
 
-## GitHub Stats
+## Philosophy
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=klousex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klousex&theme=tokyonight&hide_border=true&layout=compact" />
-</div>
+- practical engineering;
+- maintainability;
+- scalability;
+- clean architecture;
+- production mindset;
+- long-term ecosystem building.
 
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=klousex&theme=tokyonight&hide_border=true" />
-</div>
+I build systems that are useful, extensible and designed for real-world usage.
+
+---
+
+## Media / Creator
+
+Interested in:
+
+- coding streams;
+- Minecraft streams;
+- devlogs;
+- showcases;
+- edits & short-form content;
+- engineering/media ecosystem building.
+
+Goal:
+build a recognizable international creator + engineering presence.
 
 ---
 
 ## Contact
 
 <div align="center">
-  <a href="https://t.me/klousex">Telegram</a> •
-  <a href="mailto:business.klousex@gmail.com">E-mail</a>
-</div>
 
-<div align="center">
-  <sub>Simply • Lovely</sub>
+<a href="https://t.me/klousex">Telegram</a> •
+<a href="mailto:business.klousex@gmail.com">E-Mail</a>
+
 </div>
