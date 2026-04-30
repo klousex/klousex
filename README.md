@@ -41,15 +41,7 @@
 
 Full-stack developer focused on practical and scalable applications.
 
-Main interests:
-- backend/frontend systems
-- realtime applications
-- Minecraft development
-- automation & tooling
-- UI/UX
-- creator & media
-
-Building projects around development, content and long-term online presence.
+Interested in backend/frontend systems, realtime applications, Minecraft development, automation, UI/UX and content creation.
 
 ---
 
