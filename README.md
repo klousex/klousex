@@ -54,7 +54,7 @@ Interested in backend/frontend systems, realtime applications, Minecraft develop
 
 ### Web
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind&perline=6" />
 </p>
 
 ### Backend / Environment
