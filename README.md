@@ -37,14 +37,6 @@
 
 ---
 
-## Overview
-
-Full-stack developer focused on practical and scalable applications.
-
-Interested in backend/frontend systems, realtime applications, Minecraft development, automation, UI/UX and content creation.
-
----
-
 ## Stack
 
 ### Languages
