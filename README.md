@@ -7,7 +7,7 @@
   />
 </a>
 
-#KLouse
+KLouse
 
 ### Full-Stack Developer • Minecraft Development
 
