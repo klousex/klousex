@@ -32,40 +32,58 @@
   <a href="mailto:business.klousex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-klousex-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
 -->
+</p>
+
 </div>
 
 ---
 
 ## About Me
 
-Hi, I’m Klouse.
+<table>
+  <tr>
+    <td width="50%">
 
-I’m focused on AI Engineering, software development, automation, and building practical tools.
+### Direction
 
-My current direction is learning and building around Python, Machine Learning, LLMs, backend fundamentals, and web-based interfaces for projects.
+I’m focused on AI Engineering, software development, automation, and practical tools.
 
-I use full-stack development as a foundation for creating useful systems, dashboards, tools, and experiments.
+My current direction is Python, Machine Learning, LLMs, backend fundamentals, databases, and simple web interfaces for real projects.
+
+</td>
+    <td width="50%">
+
+### Mindset
+
+I like turning messy ideas into working tools.
+
+I build, test, break, fix, refactor, and try to understand how systems work under the hood.
+
+</td>
+  </tr>
+</table>
 
 ---
 
 ## Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java&perline=4" />
-</p>
-
-### Web / Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&perline=4" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite&perline=4" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,ts,js,java&perline=2" />
+    </td>
+    <td align="center" width="33%">
+      <h3>Web</h3>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&perline=2" />
+    </td>
+    <td align="center" width="33%">
+      <h3>Database</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,sqlite&perline=2" />
+    </td>
+  </tr>
+</table>
 
 ---
 
