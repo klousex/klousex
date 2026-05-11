@@ -9,7 +9,7 @@
 
 # Klouse
 
-### Full-Stack & Minecraft Developer
+### AI Engineering • Software Development
 
 <p>
   <a href="https://twitch.tv/klousex">
@@ -41,11 +41,11 @@
 
 Hi, I’m Klouse.
 
-I build stuff, break stuff, fix stuff, and sometimes turn it into content.
+I’m focused on AI Engineering, software development, automation, and building practical tools.
 
-Into full-stack development, Minecraft projects, backend engineering, UI/UX, and gaming content creation.
+My current direction is learning and building around Python, Machine Learning, LLMs, backend fundamentals, and web-based interfaces for projects.
 
-Currently trying to survive TypeScript errors and build a future in tech.
+I use full-stack development as a foundation for creating useful systems, dashboards, tools, and experiments.
 
 ---
 
@@ -53,22 +53,17 @@ Currently trying to survive TypeScript errors and build a future in tech.
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,swift&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java&perline=4" />
 </p>
 
-### Web
+### Web / Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,tailwind&perline=6" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&perline=4" />
 </p>
 
-### Backend & Tools
+### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postgres,redis&perline=5" />
-</p>
-
-### Media
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr,ae&perline=6" />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite&perline=4" />
 </p>
 
 ---
