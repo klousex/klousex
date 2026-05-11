@@ -70,15 +70,21 @@ I build, test, break, fix, refactor, and try to understand how systems work unde
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <h3>Languages</h3>
       <img src="https://skillicons.dev/icons?i=python,ts,js,java&perline=2" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
+      <h3>AI / ML</h3>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=2" />
+      <br />
+      <sub>ML · DL · LLMs</sub>
+    </td>
+    <td align="center" width="25%">
       <h3>Web</h3>
       <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite&perline=2" />
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <h3>Database</h3>
       <img src="https://skillicons.dev/icons?i=postgres,sqlite&perline=2" />
     </td>
