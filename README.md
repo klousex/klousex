@@ -28,11 +28,12 @@
     <img src="https://img.shields.io/badge/Discord-klousex-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
+<!--
   <a href="mailto:business.klousex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-klousex-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
+-->
 </div>
 
 ---
