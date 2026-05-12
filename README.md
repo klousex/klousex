@@ -78,7 +78,6 @@ I build, test, break, fix, refactor, and try to understand how systems work unde
       <h3>AI / ML</h3>
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=2" />
       <br />
-      <sub>ML · DL · LLMs</sub>
     </td>
     <td align="center" width="25%">
       <h3>Web</h3>
